@@ -65,6 +65,7 @@ plt.title("Customer Segments")
 
 ![image](https://user-images.githubusercontent.com/94154683/172996266-c938bc5f-3d84-423f-a511-eb1b4ec2a8ec.png)
 
+![image](https://github.com/Revathi-Dayalan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/96000574/9998281f-0e24-4477-90e1-e0a1c37c0514)
 
 ![image](https://user-images.githubusercontent.com/94154683/172996301-7606d4bb-02a1-4a94-a376-67f5266c16bd.png)
 
